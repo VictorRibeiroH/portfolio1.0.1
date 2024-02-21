@@ -308,15 +308,15 @@ export const projects = [
     image:
       "https://github.com/VictorRibeiroH/dmarks1.0.1/blob/main/novaDmarks.png?raw=true",
     tags: [
-      "React Js",
-      "MongoDb",
+      "Next Js",
+      "Sanity",
       "Node Js",
       "Redux",
       "TailwindCSS"
     ],
     category: "web app",
     github: "https://github.com/VictorRibeiroH/dmarks1.0.2",
-    webapp: "https://dmarks1-0-1.vercel.app/",
+    webapp: "https://dmarks.vercel.app/",
   },
   // {
   //   id: 0,
