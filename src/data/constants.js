@@ -308,7 +308,7 @@ export const projects = [
     image:
       "https://github.com/VictorRibeiroH/dmarks1.0.1/blob/main/novaDmarks.png?raw=true",
     tags: [
-      "Next Js",
+      "Next Js.",
       "Sanity",
       "Node Js",
       "Redux",
