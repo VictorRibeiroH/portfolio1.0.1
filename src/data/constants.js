@@ -49,7 +49,7 @@ export const skills = [
       {
         name: "TypeScript",
         image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"
       },
       {
         name: "Bootstrap",
@@ -87,7 +87,7 @@ export const skills = [
       {
         name: ".NET",
         image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/912px-Microsoft_.NET_logo.svg.png"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/912px-Microsoft_.NET_logo.svg.png"
       },
       {
         name: "MongoDB",
@@ -201,7 +201,7 @@ export const experiences = [
       "Figma",
       "Node Js",
     ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+    //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
   // {
   //   id: 3,
@@ -318,6 +318,18 @@ export const projects = [
     github: "https://github.com/VictorRibeiroH/dmarks1.0.2",
     webapp: "https://dmarks.vercel.app/",
   },
+  {
+    id: 0,
+    title: "KeeGym",
+    date: "Mar 2024",
+    description:
+      "Projeto pessoal desenvolvido utilizando React e Vite. Com esta aplicação, os usuários têm acesso a uma plataforma de consultoria em fitness, projetada para ajudá-los a alcançar seus objetivos de saúde e fitness na academia. Através de uma interface intuitiva, os usuários podem assinar uma mensalidade, receber treinos e dietas 100% adaptadas às suas necessidades e metas específicas. Além disso, dicas de exercícios e correções posturais, visando proporcionar uma experiência completa e eficaz para alcançar uma vida mais saudável e ativa.",
+    image: "https://i.imgur.com/kN98gnQ.png",
+    tags: ["React Js", "Vite", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/VictorRibeiroH/keeGYM",
+    webapp: "https://kee-gym.vercel.app/"
+  }
   // {
   //   id: 0,
   //   title: "Podstream",
