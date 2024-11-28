@@ -8,7 +8,7 @@ export const Bio = {
   //   "",
   github: "https://github.com/VictorRibeiroH",
   resume:
-    "https://drive.google.com/file/d/15QseZEBCpddmtyuwr5MooNdIE9O9R0sa/view?usp=sharing",
+    "https://drive.google.com/file/d/1qkmUr-BWIwyBS-2x7B74izJfydk1-usr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/victor-ribeiroh/",
   insta: "https://www.instagram.com/victxribeiro/"
 };
